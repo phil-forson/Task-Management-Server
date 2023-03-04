@@ -384,6 +384,66 @@
         }
       ],
       "id": 16
+    },
+    {
+      "name": "UX Design",
+      "columns": [
+        {
+          "id": 1,
+          "name": "Today",
+          "tasks": []
+        },
+        {
+          "id": 2,
+          "name": "Tomorrow",
+          "tasks": []
+        },
+        {
+          "name": "In two weeks",
+          "tasks": []
+        }
+      ],
+      "id": 17
+    },
+    {
+      "name": "UX Design",
+      "columns": [
+        {
+          "id": 1,
+          "name": "Today",
+          "tasks": []
+        },
+        {
+          "id": 2,
+          "name": "Tomorrow",
+          "tasks": []
+        },
+        {
+          "name": "In two weeks",
+          "tasks": []
+        }
+      ],
+      "id": 18
+    },
+    {
+      "name": "UX Design",
+      "columns": [
+        {
+          "id": 1,
+          "name": "Today",
+          "tasks": []
+        },
+        {
+          "id": 2,
+          "name": "Tomorrow",
+          "tasks": []
+        },
+        {
+          "name": "In two weeks",
+          "tasks": []
+        }
+      ],
+      "id": 19
     }
   ]
 }
